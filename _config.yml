@@ -3,7 +3,7 @@ title: CanTechLab
 SEOTitle: Can's Blog
 header-img: img/home-bg.png
 email: supercan.cs@gmail.com
-description: 
+description: Freedom.
 keyword: 
 url: "https://infinitycan.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: supercan
 
 # Netease settings
 netease_comment: false
@@ -90,5 +90,4 @@ page-mathjax: false
 
 # Friends
 friends:
-  [
-  ]
+  []
