@@ -5,7 +5,7 @@ subtitle: "参数没有参与loss运算 DDP同步梯度报错"
 date: 2025-08-09
 author: "Can"
 header-img: "img/post-bg-2015.jpg"
-tags: ["Pytorch", "DDP"]
+tags: ["PyTorch", "DDP"]
 ---
 
 ## 问题描述
