@@ -1,3 +1,31 @@
+/*post on top*/
+
+.ontop-pushpin {
+  display: inline;
+  box-sizing: border-box;
+  border: 1px solid grey;
+  padding: .2rem .75rem .15rem .75rem;
+  margin-right: .5rem;
+  border-radius: .25em;
+  top: -2px;
+  font-size: 14px;
+}
+
+.ontop-title-group {
+  display: block;
+  font-size: 21px;
+  line-height: 1.3;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+@media only screen and (min-width: 768px) {
+  .ontop-pushpin {
+    padding: 0.275rem 0.75rem 0.175rem 0.75rem;
+    top: -3px;
+  }
+}
+
 @media (min-width: 1200px) {
   .post-container,
   .sidebar-container {
