@@ -6,7 +6,7 @@ date: 2025-08-30
 author: "Can"
 header-img: "img/croatia.jpg"
 mathjax: true
-tags: ["Paper-Reading", "Anomaly-Detection"]
+tags: ["Paper Reading", "Anomaly Detection"]
 ---
 
 论文：[Isolation Forest](/file/Isolation-Forest.pdf)（ICDM 2008）

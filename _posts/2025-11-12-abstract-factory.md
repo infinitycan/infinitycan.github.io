@@ -5,7 +5,7 @@ subtitle: "如何创建一系列相互依赖的对象"
 date: 2025-11-12
 author: "Can"
 header-img: "img/nature-4.jpg"
-tags: ["Design-Pattern", "C++"]
+tags: ["Design Pattern", "C++"]
 ---
 
 ## 模式定义

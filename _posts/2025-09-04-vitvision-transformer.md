@@ -6,7 +6,7 @@ date: 2025-09-04
 author: "Can"
 header-img: "img/building.jpg"
 mathjax: true
-tags: ["Paper-Reading", "ViT", "Transformer", "Computer-Vision"]
+tags: ["Paper Reading", "ViT", "Transformer", "Computer-Vision"]
 ---
 论文：[AN IMAGE IS WORTH 16 X 16 WORDS :TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE（ICCV 2021）](https://arxiv.org/abs/2010.11929)
 

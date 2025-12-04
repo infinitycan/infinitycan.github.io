@@ -6,7 +6,7 @@ date: 2025-08-15
 author: "Can"
 header-img: "img/brienzer.jpg"
 mathjax: true
-tags: ["Paper-Reading", "Anomaly-Detection", "MAE", "CVPR"]
+tags: ["Paper Reading", "Anomaly Detection", "MAE", "CVPR"]
 ---
 
 论文链接：[Paper](https://ieeexplore.ieee.org/document/10655393)

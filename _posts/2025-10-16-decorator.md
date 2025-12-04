@@ -5,7 +5,7 @@ subtitle: ""
 date: 2025-10-16
 author: "Can"
 header-img: "img/nature-3.jpg"
-tags: ["Design-Pattern"]
+tags: ["Design Pattern"]
 ---
 
 ## 定义

@@ -5,7 +5,7 @@ subtitle: ""
 date: 2025-12-02
 author: "Can"
 header-img: "img/sunflower-1.jpg"
-tags: ["Design-Pattern"]
+tags: ["Design Pattern"]
 ---
 
 ## 模式定义

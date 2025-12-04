@@ -6,7 +6,7 @@ date: 2025-08-25
 author: "Can"
 header-img: "img/wind.jpg"
 mathjax: true
-tags: ["Paper-Reading", "Anomaly-Detection", "ECCV", "LLM"]
+tags: ["Paper Reading", "Anomaly Detection", "ECCV", "LLM"]
 ---
 
 论文链接：[Paper](https://www.arxiv.org/pdf/2407.10299)

@@ -6,7 +6,7 @@ date: 2025-08-26
 author: "Can"
 header-img: "img/mountains-1.jpg"
 mathjax: true
-tags: ["Paper-Reading", "Multi-Modal", "Anomaly-Detection", "CVPR"]
+tags: ["Paper Reading", "Multi-Modal", "Anomaly Detection", "CVPR"]
 ---
 
 论文链接：[Paper](https://arxiv.org/pdf/2403.12570v1.pdf)

@@ -6,7 +6,7 @@ date: 2025-09-04
 author: "Can"
 header-img: "img/sunrise.jpg"
 mathjax: true
-tags: ["Paper-Reading", "ResNet", "CNN", "Computer-Vision"]
+tags: ["Paper Reading", "ResNet", "CNN", "Computer-Vision"]
 ---
 
 论文：[Deep Residual Learning for Image Recognition（CVPR 2016）](https://arxiv.org/abs/1512.03385)

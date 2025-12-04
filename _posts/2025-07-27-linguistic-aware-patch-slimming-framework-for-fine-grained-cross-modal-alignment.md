@@ -5,7 +5,7 @@ subtitle: "跨模态对齐语言感知型补丁精简框架"
 date: 2025-07-27
 author: "Can"
 header-img: "img/post-bg-2015.jpg"
-tags: ["Paper-Reading", "Multi-Modal", "Multi-Label", "CVPR"]
+tags: ["Paper Reading", "Multi-Modal", "Multi-Label", "CVPR"]
 ---
 这篇工作被<strong>CVPR 2024</strong>接收。
 
