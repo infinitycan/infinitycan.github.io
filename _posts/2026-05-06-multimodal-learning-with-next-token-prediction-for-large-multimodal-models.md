@@ -5,7 +5,7 @@ subtitle: "Emu3 from Beijing Academy of Artificial Intelligence (BAAI); Tsinghua
 date: 2026-05-06
 author: "Can"
 header-img: "img/background/bird.jpg"
-tags: []
+tags: ["Paper Reading", "Foundation-Model", "Self-supervised Learning", "Transformer", "Nature"]
 ---
 
 [项目主页](https://emu.baai.ac.cn/about)
